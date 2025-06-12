@@ -247,7 +247,7 @@ function render() {
   particles = [];
   //
   text = new Text({
-    copy: "HAPPY BIRTHDAY KIKI",
+    copy: "Happy Birthday kiki",
   });
 
   canvas.addEventListener("click", (e) => {
